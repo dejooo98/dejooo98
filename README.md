@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dejan Markovic.
 - 👀 I’m interested in field of Web programming.
-- 🌱 I’m currently learning JavaScript and Angular.
+- 🌱 I’m currently learning JavaScript, Angular and React.
 - 💞️ I’m open to collaborate.
 - 📫 How to reach me? You can contact me using mail _dejan98vgd@gmail.com_ or Ig and FB.
 - 💻 This is my portfolio Website, check my works http://dejanmarkovic.netlify.app

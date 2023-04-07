@@ -54,7 +54,7 @@
   </a>
 
   <a href="">
-    <img width="50%" margin-bottom="20px" align="left" alt="Dejan github stats" src="https://github-readme-stats.vercel.app/api?username=dejooo98&show_icons=true&hide_border=true" />
+    <img width="45%" margin-bottom="20px" align="left" alt="Dejan github stats" src="https://github-readme-stats.vercel.app/api?username=dejooo98&show_icons=true&hide_border=true" />
   </a>
 </p>
 

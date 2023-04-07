@@ -20,7 +20,7 @@
   <li>🏡 From Visegrad, RS (BiH)</li>
   <li>📍 Currently live in Uzice, Serbia</li>
   <li>💻 Frontend Developer</li>
-  <li>🎓 I graduated from the Academy of Vocational Studies in Western Serbia in Užice<b>IT</b></li>
+  <li>🎓 I graduated from the Academy of Vocational Studies in Western Serbia in Užice<b> IT</b></li>
   <li>💻 Most of my projects are available on GttHub</li>
   <li>👀 I’m interested in field of Web programming.</li>
   <li>🌱 I’m currently learning JavaScript, Angular and React.</li>
@@ -58,8 +58,8 @@
   </a>
 </p>
 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dejooo98&theme=vue" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dejooo98">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dejooo98&theme=vue" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dejooo98">
 
 
 

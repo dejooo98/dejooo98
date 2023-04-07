@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  I am Filip <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> <br> 
+  I am Dejan Markovic <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> <br> 
  Frontend Developer 
 </h1> 
 

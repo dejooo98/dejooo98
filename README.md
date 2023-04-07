@@ -49,9 +49,13 @@
 </div>
 
 <p>
+  <a href="">
     <img width="50%" align="right" alt="Dejan github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejooo98&layout=compact&title_color=007bff&text_color=111&icon_color=007bff&bg_color=fff&hide_border=true" />
+  </a>
 
+  <a href="">
     <img width="45%" align="left" alt="Dejan github stats" src="https://github-readme-stats.vercel.app/api?username=dejooo98&show_icons=true&hide_border=true" />
+  </a>
 </p>
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dejooo98&theme=vue" />

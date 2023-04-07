@@ -15,7 +15,7 @@
 </div>
 
 <img align="right" src="img/dev-working_rounded.gif?raw=true" href="#" alt="" height="300px"/>
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>⚡️ A Few Things About Me</h2>
 <ul>
   <li>🏡 From Visegrad, RS (BiH)</li>
   <li>📍 Currently live in Uzice, Serbia</li>
@@ -50,7 +50,7 @@
 
 <p>
   <a href="">
-    <img width="45%" align="right" alt="Filip github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejooo98&layout=compact&title_color=007bff&text_color=111&icon_color=007bff&bg_color=fff&hide_border=true" />
+    <img width="45%" align="right" alt="Dejan github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejooo98&layout=compact&title_color=007bff&text_color=111&icon_color=007bff&bg_color=fff&hide_border=true" />
   </a>
 
   <a href="">

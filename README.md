@@ -10,7 +10,7 @@
   [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dejan98vgd@gmail.com)
   [![Website](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://dejomarkovic.com/)
   [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dejooo0/)  
-  [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/d2__dev/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sajtizrada/)
 
 </div>
 

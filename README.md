@@ -1,6 +1,6 @@
 <h1 align="center"> 
   I am Dejan Markovic <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> <br> 
- Frontend Developer 
+ Web Developer | WordPress Developer & React JS and NEXT JS Developer
 </h1> 
 
 <div align="center">
@@ -21,10 +21,10 @@
   <li>📍 Currently live in Uzice, Serbia</li>
   <li>💻 Frontend Developer</li>
   <li>🎓 I graduated from the Academy of Vocational Studies in Western Serbia in Užice<b> IT</b></li>
-  <li>💻 Most of my projects are available on GttHub</li>
-  <li>👀 I’m interested in field of Web programming.</li>
-  <li>🌱 I’m currently learning JavaScript, Angular and React.</li>
-  <li>💞️ I’m open to collaborate.</li>
+  <li>💻 Most of my projects are available on GitHub </li>
+  <li>👀 I’m interested in the field of Web programming.</li>
+  <li>🌱 I’m currently learning JavaScript, Angular, React and NEXT.</li>
+  <li>💞️ I’m open to collaboration.</li>
 </ul>
 
 <br><br>
